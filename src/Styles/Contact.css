@@ -1,0 +1,17 @@
+#contact{
+ background-color:blueviolet;
+ color: whitesmoke;
+}
+.contact-page{
+ position: absolute;
+ top:2150px;
+ left: 550px;
+}
+.contact-to{
+ position: relative;
+ left: 70px;
+}
+.contact-contact-page{
+ position: relative;
+ right: 25px;
+}

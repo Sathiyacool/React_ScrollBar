@@ -1,0 +1,17 @@
+#carrer{
+    background-color: orange;
+    color: white ;
+}
+.carrer-page{
+ position: absolute;
+ top:950px;
+ left: 550px;
+}
+.carrer-to{
+ position: relative;
+ left: 70px;
+}
+.carrer-carrer-page{
+ position: relative;
+ right: 19px;
+}
